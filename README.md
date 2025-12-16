@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [RAG + Knowledge Graph based intelligent systems](https://github.com/kanankotwani28)
 
-- 💬 Ask me about **LLMs, Transformers, PyTorch, DSA, Competitive Programming, React, Data structure and algorithms**
+- 💬 Ask me about **LLMs, Transformers, PyTorch, DSA, Competitive Programming, React**
 
 - 📫 How to reach me **kanankotwani28@gmail.com**
 
